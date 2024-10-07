@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=roxylgbtq.roxylgbtq&left_color=blueviolet&right_color=blue"  />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Froxylgbtq.roxylgbtq%2Fvisits&style=for-the-badge" />
 </div>
 
 ###
@@ -41,5 +41,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=roxylgbtq&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
