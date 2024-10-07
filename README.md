@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Froxylgbtq.roxylgbtq%2Fvisits&style=for-the-badge" />
-</div>
-
-###
-
 <h1 align="center">Welcome to my Profile 💙</h1>
 
 ###
